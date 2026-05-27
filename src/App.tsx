@@ -150,8 +150,8 @@ function App() {
           {/* Main image */}
           <div className="relative w-full h-[50vh] md:h-full">
             <img
-              src="https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=1920"
-              alt="Industrial tech-noir"
+              src="https://images.pexels.com/photos/36194126/pexels-photo-36194126.jpeg?auto=compress&cs=tinysrgb&w=1920"
+              alt="Breaking free from chains"
               className="w-full h-full object-cover"
               style={{
                 filter: 'grayscale(100%) contrast(1.4) brightness(0.5)',
