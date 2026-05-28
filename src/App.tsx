@@ -71,10 +71,10 @@ function App() {
                 loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
               }`}
             >
-              Tavo mintys nera tavo. Algoritmai nustato ka matai, ka
-              galvoji, ka jauti. Kognityvinis suverenitetas — tai ne
-              privilegija, o kova. Išeiti is sistemos reiskia pradeti
-              matyti. Mes atveriame erdve tiems, kurie atsibudo.
+              Tavo mintys nėra tavo. Algoritmai nustato ką matai, ką
+              galvoji, ką jauti. Kognityvinis suverenitetas — tai ne
+              privilegija, o kova. Išeiti iš sistemos reiškia pradėti
+              matyti. Mes atveriame erdvę tiems, kurie atsibudo.
             </p>
 
             {/* CTA */}
@@ -118,7 +118,7 @@ function App() {
               </a>
 
               <p className="text-[10px] text-white/30 mt-4 tracking-wider">
-                SUBSTACK — NEMOKAMAS IR LAISVAS
+                Naujienlaiškis apie laisvę. Ir prieš sistemą.
               </p>
             </div>
           </div>
